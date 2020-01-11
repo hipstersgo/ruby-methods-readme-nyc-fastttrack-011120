@@ -6,4 +6,4 @@ greeting
 greeting
 greeting
 greeting
-greeeting
+greeting
